@@ -2,6 +2,11 @@
 {
     public class Loan
     {
+
+        /// <summary>
+        /// Some comments
+        /// </summary>
+
         public decimal Amount { get; set; }
         public decimal Rate { get; set; }
         public int Term { get; set; }
